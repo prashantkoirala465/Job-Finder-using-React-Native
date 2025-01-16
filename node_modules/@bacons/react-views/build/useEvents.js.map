@@ -1,1 +1,0 @@
-{"version":3,"file":"useEvents.js","sourceRoot":"","sources":["../src/useEvents.ts"],"names":[],"mappings":";;;AAAA,SAAgB,QAAQ,CAAC,GAAG;IAC1B,OAAO,KAAK,CAAC;AACf,CAAC;AAFD,4BAEC","sourcesContent":["export function useHover(ref): boolean {\n  return false;\n}\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"filterStyles.js","sourceRoot":"","sources":["../src/filterStyles.ts"],"names":[],"mappings":";;;AAAA,kBAAkB;AAClB,SAAgB,YAAY,CAAC,KAAK,GAAG,EAAE;IACrC,OAAO,KAAK,CAAC;AACf,CAAC;AAFD,oCAEC","sourcesContent":["// Web = OP styles\nexport function filterStyles(style = {}) {\n  return style;\n}\n"]}
